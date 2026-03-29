@@ -1,1 +1,14 @@
 
+## Build the dockerfiles locally
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
