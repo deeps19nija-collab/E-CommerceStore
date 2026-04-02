@@ -23,11 +23,19 @@ https://github.com/deeps19nija-collab/E-CommerceStore/tree/skilltest3_terrafoam/
 
  <img width="1442" height="426" alt="image" src="https://github.com/user-attachments/assets/a13b7491-c991-4ce5-8aca-fd33b7558fd9" />
 
- <img width="882" height="631" alt="image" src="https://github.com/user-attachments/assets/59009ca0-7878-4cba-a468-931b2fcab61c" />
+<img width="1027" height="737" alt="image" src="https://github.com/user-attachments/assets/0894900b-d579-4fd1-b5c3-67e7448b181d" />
+
 
  ### instance got created 
 
- <img width="1517" height="748" alt="image" src="https://github.com/user-attachments/assets/3d142128-1223-49a6-b199-bd94bc174078" />
+<img width="1828" height="806" alt="image" src="https://github.com/user-attachments/assets/e9d6eff6-5269-4d71-9191-06ff0448e42f" />
+
+Application is up and running 
+
+<img width="1822" height="828" alt="image" src="https://github.com/user-attachments/assets/06ec43ad-1dd8-469b-855d-52c027ebb605" />
+
+
+
 
 
 
