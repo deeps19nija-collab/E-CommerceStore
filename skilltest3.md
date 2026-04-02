@@ -49,7 +49,7 @@ https://github.com/deeps19nija-collab/E-CommerceStore/tree/skilltest3_terrafoam/
 
 
 
-### Application is up and running     
+### Application is up and running on the http://13.40.195.164 
 
 
 
