@@ -35,6 +35,19 @@ https://github.com/deeps19nija-collab/E-CommerceStore/tree/skilltest3_terrafoam/
  
 <img width="1828" height="806" alt="image" src="https://github.com/user-attachments/assets/e9d6eff6-5269-4d71-9191-06ff0448e42f" />  
 
+### All the images were pulled in ec2 instance successsfully by creating  the script "user-data.sh" (below) as mentioned in the task
+**Not committed to git as added to .gitignore**  
+
+
+<img width="1696" height="793" alt="image" src="https://github.com/user-attachments/assets/79aa3c7e-3f37-4e06-88fb-1ffbcc8365ca" />  
+
+
+
+<img width="1260" height="640" alt="image" src="https://github.com/user-attachments/assets/ad597246-5bb5-4e6d-8d29-4ed0555a8a19" />  
+
+
+
+
 
 ### Application is up and running     
 
